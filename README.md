@@ -5,7 +5,7 @@ Mongodb Development class for Javascript
 
 Search for TODO: hw2.3 in users.js.orig to see what they are asking Look in my users.js to see what I added. My code is missing something. I don't want you to do my homework, but just give me a nudge in the right direction. 
 I think I am really close but missing something little.
-I am not getting any error even in console on Chrome Developer. It only times out and stops.
+I am not getting any errors on the Chrome Developer console. It only times out and stops.
 
 I added the user tom with password tom and received the following messages
 ^CMFN-LT-0067:blog toulon$ node app.js 
